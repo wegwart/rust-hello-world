@@ -4,6 +4,7 @@ Rust
 Code
 ----
 rust-analyzer
+CodeLLDB
 
 Documentation
 -------------
@@ -26,3 +27,8 @@ Build your crate
 ```
 cargo build --target x86_64-pc-windows-gnu
 ```
+
+dmesg analyser
+--------------
+
+[dmesg log](./resources/dmesg_sample.log)

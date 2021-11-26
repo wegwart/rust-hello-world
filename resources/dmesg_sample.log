@@ -1,0 +1,109 @@
+[ 5036.902006] FS-Cache: N-key=[8] 'bf63000000000800'
+[ 5037.662510] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5038.663667] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5039.664873] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5039.717384] FS-Cache: Duplicate cookie detected
+[ 5039.717408] FS-Cache: O-cookie c=00000000b849117e [p=0000000059f3e31b fl=226 nc=0 na=1]
+[ 5039.717409] FS-Cache: O-cookie d=0000000045d960e0 n=000000005372e4df
+...
+[ 5040.407907] FS-Cache: O-key=[8] 'bf63000000000800'
+[ 5040.407913] FS-Cache: N-cookie c=000000006f8f4395 [p=0000000059f3e31b fl=2 nc=0 na=1]
+[ 5040.407914] FS-Cache: N-cookie d=0000000045d960e0 n=000000002f9732da
+[ 5040.407915] FS-Cache: N-key=[8] 'bf63000000000800'
+[ 5040.666028] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5041.667182] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5042.668585] init: (144) ERROR: StartHostListener:354: write failed 32
+...
+[ 5100.746831] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5101.747974] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5102.750013] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5102.864164] FS-Cache: Duplicate cookie detected
+[ 5102.864169] FS-Cache: O-cookie c=000000003ff3fd1b [p=0000000059f3e31b fl=226 nc=0 na=1]
+[ 5102.864171] FS-Cache: O-cookie d=0000000045d960e0 n=000000000eb46755
+[ 5102.864172] FS-Cache: O-key=[8] 'ed64000000000800'
+[ 5102.864180] FS-Cache: N-cookie c=00000000963642c6 [p=0000000059f3e31b fl=2 nc=0 na=1]
+[ 5102.864181] FS-Cache: N-cookie d=0000000045d960e0 n=0000000099880872
+[ 5102.864182] FS-Cache: N-key=[8] 'ed64000000000800'
+[ 5103.751148] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5104.752853] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5105.754587] init: (144) ERROR: StartHostListener:354: write failed 32
+...
+[ 5224.929156] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5225.930485] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5226.932307] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5227.799418] FS-Cache: Duplicate cookie detected
+[ 5227.799423] FS-Cache: O-cookie c=000000003ff3fd1b [p=0000000059f3e31b fl=226 nc=0 na=1]
+[ 5227.799424] FS-Cache: O-cookie d=0000000045d960e0 n=000000000eb46755
+[ 5227.799425] FS-Cache: O-key=[8] 'ed64000000000800'
+[ 5227.799433] FS-Cache: N-cookie c=000000009e2e5b92 [p=0000000059f3e31b fl=2 nc=0 na=1]
+[ 5227.799434] FS-Cache: N-cookie d=0000000045d960e0 n=0000000028e3d47e
+[ 5227.799435] FS-Cache: N-key=[8] 'ed64000000000800'
+[ 5227.932953] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5228.933578] init: (144) ERROR: StartHostListener:354: write failed 32
+...
+[ 5268.984633] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5269.985760] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5270.722245] WSL2: Performing memory compaction.
+[ 5270.987010] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5271.988164] init: (144) ERROR: StartHostListener:354: write failed 32
+...
+[ 5330.075280] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5331.076341] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5331.582029] FS-Cache: Duplicate cookie detected
+[ 5331.582042] FS-Cache: O-cookie c=00000000477a2232 [p=0000000059f3e31b fl=226 nc=0 na=1]
+[ 5331.582045] FS-Cache: O-cookie d=0000000045d960e0 n=00000000cceffac7
+[ 5331.582047] FS-Cache: O-key=[8] 'c363000000000900'
+[ 5331.582061] FS-Cache: N-cookie c=00000000963642c6 [p=0000000059f3e31b fl=2 nc=0 na=1]
+[ 5331.582063] FS-Cache: N-cookie d=0000000045d960e0 n=0000000003541349
+[ 5331.582065] FS-Cache: N-key=[8] 'c363000000000900'
+[ 5331.582126] FS-Cache: Duplicate cookie detected
+[ 5331.582131] FS-Cache: O-cookie c=00000000ffb4ae8d [p=0000000059f3e31b fl=226 nc=0 na=1]
+[ 5331.582133] FS-Cache: Duplicate cookie detected
+[ 5331.582139] FS-Cache: O-cookie c=000000001a5e60b7 [p=0000000059f3e31b fl=226 nc=0 na=1]
+[ 5331.582142] FS-Cache: O-cookie d=0000000045d960e0 n=0000000069bad1e5
+[ 5331.582146] FS-Cache: O-cookie d=0000000045d960e0 n=00000000fedb1893
+[ 5331.582148] FS-Cache: O-key=[8] '
+[ 5331.582150] FS-Cache: O-key=[8] '
+[ 5331.582152] 81
+[ 5331.582155] bf
+[ 5331.582158] ea
+[ 5331.582167] 63
+[ 5331.582172] 0000
+[ 5331.582177] 0000
+[ 5331.582182] 0000
+[ 5331.582187] 0000
+[ 5331.582192] 0500
+[ 5331.582203] 08
+[ 5331.582214] '
+[ 5331.582219] FS-Cache: N-cookie c=00000000d04dbf65 [p=0000000059f3e31b fl=2 nc=0 na=1]
+[ 5331.582221] 00'
+[ 5331.582227] FS-Cache: N-cookie d=0000000045d960e0 n=000000001d7aa029
+[ 5331.582230] FS-Cache: N-key=[8] '
+[ 5331.582234] FS-Cache: N-cookie c=00000000a0a38b7d [p=0000000059f3e31b fl=2 nc=0 na=1]
+[ 5331.582237] FS-Cache: N-cookie d=0000000045d960e0 n=00000000a3da2aac
+[ 5331.582239] 81ea
+[ 5331.582243] FS-Cache: N-key=[8] 'bf
+[ 5331.582247] 0000
+...
+[ 5331.582266] 0008
+[ 5331.582270] '
+[ 5331.582275] 00'
+[ 5331.584762] FS-Cache: Duplicate cookie detected
+[ 5331.584768] FS-Cache: O-cookie c=000000003ff3fd1b [p=0000000059f3e31b fl=226 nc=0 na=1]
+[ 5331.584770] FS-Cache: O-cookie d=0000000045d960e0 n=000000000eb46755
+[ 5331.584771] FS-Cache: O-key=[8] 'ed64000000000800'
+...
+[ 5333.486518] FS-Cache: N-cookie c=00000000e455ea88 [p=0000000059f3e31b fl=2 nc=0 na=1]
+[ 5333.486519] FS-Cache: N-cookie d=0000000045d960e0 n=00000000c767a48e
+[ 5333.486520] FS-Cache: N-key=[8] 'b85e000000001400'
+[ 5334.079271] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5335.080437] init: (144) ERROR: StartHostListener:354: write failed 32
+...
+[ 5391.157408] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5392.158603] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5392.736485] WSL2: Performing memory compaction.
+[ 5393.159808] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5394.161039] init: (144) ERROR: StartHostListener:354: write failed 32
+...
+[ 5435.217989] init: (144) ERROR: StartHostListener:354: write failed 32
+[ 5436.219155] init: (144) ERROR: StartHostListener:354: write failed 32
